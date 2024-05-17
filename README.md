@@ -1,5 +1,8 @@
 # realastateapp
 
+Es un aplicacion de manejo de inmuebles dentro de una Inmobiliaria.
+
+
 ## Project setup
 ```
 npm install
